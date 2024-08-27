@@ -1,4 +1,4 @@
-# 🛒 ROnakk's Sell Shop
+# 🤝🏻 ROnakk's Sell Shop
 
 ### A Comprehensive Script for Selling Items to NPCs in FiveM
 
